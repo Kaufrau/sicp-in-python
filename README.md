@@ -6,6 +6,6 @@ This project contains my Python implementations of exercises from the legendary 
 I'm learning computer science fundamentals through a modern, Pythonic lens.
 
 ### Structure
-- `ch1/partA.py`: Exercises 1.1–1.14
-- `ch1/partB.py`: Exercises 1.15–1.29
+- `ch1/partA.py`: Exercises 1.1–1.8
+- `ch1/partB.py`: Exercises 1.9–1.29
 - ...
